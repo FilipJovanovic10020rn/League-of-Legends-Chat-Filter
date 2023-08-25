@@ -16,6 +16,6 @@ or using only the on_key_press() function by itself without threads.
 
 ### Things to be finished
 
-I working on implementing a snippet tool that enables you to create a rectangle where your chat box is located and hopefully a gui for easier use.
+I'm currently working on implementing a snippet tool that enables you to create a rectangle where your chat box is located and hopefully a gui for easier use.
 
 
